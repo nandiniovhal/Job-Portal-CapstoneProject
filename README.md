@@ -1,7 +1,9 @@
 # Job-Portal-CapstoneProject
-This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc. It is a Youtube series to teach step by step how to make a full stack App
+This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc. In this project I will  build a complete Fullstack Job App from scratch with React, MongoDB, Nodejs and ExpressJs.
+This App will allow human ressources workers to post  jobs on the platform, each user can see only his posted jobs. Anyone can create job category, see users in the system, see dashboard main page, etc.
+In Frontend: user can search job, filter job by category and location, etc.. pagination
 
-To use this app: clone this repo, in the root of bonus folder create a .env file with these variables PORT=9000 DATABASE=YOUR_MONGO_URL JWT_SECRET=fidbfbFCDSm1558 NODE_ENV=development if in development mode and NODE_ENV=production if you're deploying your App; after that, run "npm install" in the bonus root folder. Go inside frontend folder in bonus folder, run "npm install "
+To use this app: clone this repo, in the root of bonus folder create a .env file with these variables PORT=3030 DATABASE=YOUR_MONGO_URL JWT_SECRET=fidbfbFCDSm1558 NODE_ENV=development if in development mode and NODE_ENV=production if you're deploying your App; after that, run "npm install" in the bonus root folder. Go inside frontend folder in bonus folder, run "npm install "
 
 ![image](https://github.com/nandiniovhal/Job-Portal-CapstoneProject/assets/121006918/5af1a0be-cd9a-4e19-859b-c67aec34dbea)
 
